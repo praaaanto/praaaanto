@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Pranto
 
-<!--
-**praaaanto/praaaanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Level 4 Mechanical Engineering undergraduate at BUET (Bangladesh University of
+Engineering and Technology), Dhaka. I work on atomistic simulation of
+electronic packaging reliability and on latent heat thermal energy storage.
 
-Here are some ideas to get you started:
+### Current research
+- **Undergraduate thesis:** Molecular Dynamics study of thermomechanical
+  reliability in Cu/Cu3Sn/Cu6Sn5/SAC305 solder joint stacks, using LAMMPS with
+  2NN-MEAM interatomic potentials. Supervisor: Dr. Mohammad Abdul Motalab.
+- **Thermal energy storage:** transient CFD of a honeycomb-encapsulated
+  paraffin LHTES unit for domestic hot water, in ANSYS Fluent.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Publications and conference papers
+- Sohan, S. M. S. A., **Pranto, U. G.**, Faisal, M. F., Kafi, M. S. H., &
+  Ar-Rafi, K. M. "Design and Development of a Honeycomb-Based Latent Heat
+  Thermal Energy Storage (LHTES) Unit Using Paraffin PCM for Domestic Hot
+  Water Systems." *ASHRAE 2027 Winter Conference*, Chicago. Abstract
+  accepted; manuscript under review.
+- **Pranto, U. G.**, & Motalab, M. A. "Atomistic Molecular Dynamics Study of
+  Thermal and Mechanical Reliability at the Copper-Solder Interface in
+  Electronic Packages." *BSME ICTE 2026*. Abstract accepted.
+
+### Tools
+LAMMPS · OVITO · ANSYS Fluent · Python (NumPy, pandas, Matplotlib) · MATLAB ·
+C/C++ · MPI on Linux · SolidWorks (CSWP)
+
+### Elsewhere
+[Website](https://praaaanto.github.io) · [LinkedIn](https://www.linkedin.com/in/praaaanto/) · praanto17@gmail.com
